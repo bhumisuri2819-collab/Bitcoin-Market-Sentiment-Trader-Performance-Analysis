@@ -1,0 +1,24 @@
+Bitcoin Market Sentiment & Trader Performance Analysis
+A quantitative research project analyzing how Bitcoin market sentiment influences trader behavior and profitability using historical trading data and the Crypto Fear & Greed Index.
+
+Highlights
+Performed advanced EDA and sentiment-based trader analysis
+Engineered trader-level risk and profitability features
+Built KMeans clustering models to identify trader archetypes
+Applied Machine Learning models for profitable trade prediction
+Created interactive and professional visualizations using Plotly
+
+Tech Stack
+Python
+Pandas & NumPy
+Matplotlib & Seaborn
+Plotly
+Scikit-learn
+XGBoost
+SHAP
+
+Key Insights
+Trader profitability changes significantly across Fear vs Greed market phases
+High leverage usage increases during Extreme Greed periods
+
+Certain trader clusters consistently outperform others on a risk-adjusted basis
